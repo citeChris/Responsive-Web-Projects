@@ -28,7 +28,7 @@ Even as a Junior Developer, I prioritize security by:
 
 ## 📈 Learning Roadmap
 - [x] HTML Basics
-- [ ] CSS Flexbox & Grid
+- [x] CSS Flexbox & Grid
 - [ ] Responsive Web Design Principles
 - [ ] JavaScript Fundamentals (Next Goal!)
 
